@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This repository houses all the code for https://everythingpython.substack.com/, a newsletter that aims to talk about all things Python.
 <!--
 **everythingpython/everythingpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
