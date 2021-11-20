@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 This repository houses all the code for https://everythingpython.substack.com/, a newsletter that aims to talk about all things Python.
+💬 This repository houses all the code for https://everythingpython.substack.com/, a (aspirationally weekly) newsletter that aims to talk about all things Python.
 
 🌱 Maintained by https://abhiramr.com
 
