@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+EverythingPython is for Everything Python. It's also actually for all things data/ML engineering and software related.
+
 💬 This repository houses all the code for https://everythingpython.substack.com/, a (aspirationally weekly) newsletter that aims to talk about all things Python.
 
 🌱 Maintained by https://abhiramr.com
